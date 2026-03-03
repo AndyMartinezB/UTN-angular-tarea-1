@@ -1,0 +1,15 @@
+.app {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: #282c34;
+    color: white;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
+}
+
+.perfil {
+    border-radius: 50%;
+    margin-top: 20px;
+    align-items: center;
+}
