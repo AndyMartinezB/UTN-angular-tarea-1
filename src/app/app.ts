@@ -8,5 +8,6 @@ import { NgOptimizedImage } from '@angular/common';
   styleUrl: './app.css'
 })
 export class App {
-  protected readonly title = signal('lector');
+  titulo = 'lector';
 }
+
