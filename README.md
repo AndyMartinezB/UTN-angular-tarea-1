@@ -75,7 +75,7 @@ Abrir en el navegador:
 
 ## Capturas de pantalla
 
-
+![Captura de la aplicación](https://raw.githubusercontent.com/AndyMartinezB/UTN-angular-tarea-1/main/public/assets/images/screen.jpg)
 
 ------------------------------------------------------------------------
 ## Autor
